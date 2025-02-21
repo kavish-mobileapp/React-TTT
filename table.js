@@ -4,4 +4,4 @@ export function table(n)
    console.log(`${n} x ${i} = ${n * i}`);
 }
 }
-table(5)
+table(12)
